@@ -1,4 +1,4 @@
-# UI Test Case of rent by owner
+# UI & Functional Test Case of rent by owner
 # Test Area:
 
 # Header & Footer: 
