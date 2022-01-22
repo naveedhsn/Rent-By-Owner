@@ -1,5 +1,4 @@
-# UI & Functional Test Case of rent by owner
-# Test Area:
+# UI & Functional Test Case Area of rent by owner
 
 # Header & Footer: 
 www.rentbyowner.com
